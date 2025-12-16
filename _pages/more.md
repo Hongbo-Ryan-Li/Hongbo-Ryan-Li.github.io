@@ -10,7 +10,7 @@ author_profile: true
   - Here are some photos I took before:
 <div style="margin-left:20px; text-align: center;">
     <figure style="display:inline-block; margin:10px; text-align:center;">
-      <img src="/images/IMG_9623.jpeg" style="width:200px; display:block; margin:auto;"/>
+      <img src="/images/IMG_9623.jpg" style="width:200px; display:block; margin:auto;"/>
     </figure>
 
   <figure style="display:inline-block; margin:10px; text-align:center;">
