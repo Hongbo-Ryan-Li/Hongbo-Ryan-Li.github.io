@@ -1,24 +1,23 @@
 ---
 permalink: /
 author_profile: true
-title: "About me"
+title: "Hi there!"
 layout: archive
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to my website, I'm **Shengtai Yao (姚圣泰)**, currently pursuing a Master’s degree in [Applied Mathematics and Statistics](https://engineering.jhu.edu/ams/) at [Johns Hopkins University](https://www.jhu.edu/). I'm fortunate to work with [Mateo Díaz](https://mateodd25.github.io/), [Luhao Zhang](https://luhao-zhang.github.io/) and [Yixuan Wu](http://yixuanwu.page/). Prior to this, I earned my Bachelor degree in Mechanical Engineering (Elite program) from [Tsinghua University](https://www.tsinghua.edu.cn/en/) advised by [Qiang He](https://www.me.tsinghua.edu.cn/en/info/1265/2035.htm).
+I am now a first year PhD student in Statistics at Michigan State University (MSU). Before joining MSU, I obtained M.S. degree in Financial Mathematics at Johns Hopkins University, supervised by Prof. James Spall and Prof. Helyette Geman. I got my B.Sc. degree at Huazhong University of Science and Technology (HUST), major in Statistics.
 
-## Research Interest
+I am interested in developing efficient and provably effective methods for statistical learning and decision-making in real-world systems under uncertain data. I am particularly excited about stochastic optimization/sampling, nonconvex optimization, reinforcement learning, and diffusion models. My current research studies Zeroth-Order Langevin Monte Carlo via SPSA for gradient-free sampling when only noisy function measurements are available.
 
-Broadly speaking, I'm interested in ***Optimization and Machine Learning Theory*** and I am applying to PhD programs for the Fall 2026. I'm currently working on Geometric Machine Learning and Distributionally Robust Optimization.
-
+In my free time, I enjoy swimming, playing tennis, and kayaking. In another chapter, I played for HUST’s basketball second team in CUBAL Division II as an amateur player.
 
 
 
 ## Contact
 
-**Email:** syao31 **\<at\>** jh **\<dot\>** edu 
+**Email:** hongbo.24li **\<at\>** gmail **\<dot\>** com 
 
 
