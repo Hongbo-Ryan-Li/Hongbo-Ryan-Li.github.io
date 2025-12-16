@@ -34,7 +34,7 @@ author_profile: true
   </figure>
 
   <figure style="display:inline-block; margin:10px; text-align:center;">
-    <img src="/images/IMG_4598.JPG" style="width:200px; display:block; margin:auto;"/>
+    <img src="/images/IMG_4958.JPG" style="width:200px; display:block; margin:auto;"/>
   </figure>
 
   <figure style="display:inline-block; margin:10px; text-align:center;">
