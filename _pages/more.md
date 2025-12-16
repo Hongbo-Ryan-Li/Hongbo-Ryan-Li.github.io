@@ -14,35 +14,35 @@ author_profile: true
     </figure>
 
   <figure style="display:inline-block; margin:10px; text-align:center;">
-    <img src="/images/IMG_9620.HEIC" style="width:200px; display:block; margin:auto;"/>
+    <img src="/images/IMG_9620.jpg" style="width:200px; display:block; margin:auto;"/>
   </figure>
 
   <figure style="display:inline-block; margin:10px; text-align:center;">
-    <img src="/images/IMG_3543.HEIC" style="width:200px; display:block; margin:auto;"/>
+    <img src="/images/IMG_3543.jpg" style="width:200px; display:block; margin:auto;"/>
   </figure>
 
   <figure style="display:inline-block; margin:10px; text-align:center;">
-    <img src="/images/IMG_2759.HEIC" style="width:200px; display:block; margin:auto;"/>
+    <img src="/images/IMG_2759.jpg" style="width:200px; display:block; margin:auto;"/>
   </figure>
 
   <figure style="display:inline-block; margin:10px; text-align:center;">
-    <img src="/images/IMG_8294.HEIC" style="width:200px; display:block; margin:auto;"/>
+    <img src="/images/IMG_4958.jpg" style="width:200px; display:block; margin:auto;"/>
   </figure>
   
   <figure style="display:inline-block; margin:10px; text-align:center;">
-    <img src="/images/IMG_1704.HEIC" style="width:200px; display:block; margin:auto;"/>
+    <img src="/images/IMG_1704.jpg" style="width:200px; display:block; margin:auto;"/>
   </figure>
 
   <figure style="display:inline-block; margin:10px; text-align:center;">
-    <img src="/images/IMG_3105.JPG" style="width:200px; display:block; margin:auto;"/>
+    <img src="/images/IMG_3105.jpg" style="width:200px; display:block; margin:auto;"/>
   </figure>
 
   <figure style="display:inline-block; margin:10px; text-align:center;">
-    <img src="/images/IMG_2248.JPG" style="width:200px; display:block; margin:auto;"/>
+    <img src="/images/IMG_4904.jpg" style="width:200px; display:block; margin:auto;"/>
   </figure>
   
   <figure style="display:inline-block; margin:10px; text-align:center;">
-    <img src="/images/IMG_4904.HEIC" style="width:200px; display:block; margin:auto;"/>
+    <img src="/images/IMG_4779.jpg" style="width:200px; display:block; margin:auto;"/>
   </figure>
   
 </div>
