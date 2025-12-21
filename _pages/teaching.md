@@ -10,7 +10,7 @@ author_profile: true
 - **Role:** Graduate Teaching Assistant (recitations, office hours, grading)
 
 ## Teaching Demo Clips
-Below are short clips of my teaching experience, all with my students' agreement.
+Below are short clips of my teaching experience, all with my students' agreement. Happy to hear any advice on the way of my teaching!
 
 <div style="max-width: 900px; margin: 0 auto;">
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 20px 0;">
